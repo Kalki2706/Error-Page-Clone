@@ -28,18 +28,17 @@ html {
 }
 
 .com_name,
-.heading,
-.para_one {
-  margin-left: 80px;
+span,
+.links {
+  letter-spacing: 2px;
+  font-family: "Pragmatica-Extended-Bold";
 }
 
 .com_name {
-  font-family: "Pragmatica-Extended-Bold";
   width: 100px;
   font-size: 24px;
   margin: 80px 80px;
   font-weight: 400;
-  letter-spacing: 2px;
   line-height: 25px;
 }
 
@@ -75,15 +74,13 @@ hr {
 
 span {
   font-family: "Telegraph-UltraBold";
-  letter-spacing: 2px;
+  font-weight: 500;
 }
 
 .links {
   text-align: left;
   margin: -185px 0px 0 1400px;
-  font-family: "Pragmatica-Extended-Bold";
   font-size: 26px;
-  letter-spacing: 2px;
   font-weight: 200;
   line-height: 50px;
 }
