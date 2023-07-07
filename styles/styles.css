@@ -7,26 +7,6 @@ html {
   color: white;
 }
 
-@font-face {
-  font-family: "Pragmatica-Extended-Bold";
-  src: url(fonts/PragmaticaExtendedBold.otf);
-}
-
-@font-face {
-  font-family: "Telegraph-Regular";
-  src: url(fonts/PPTelegraf-Regular.otf);
-}
-
-@font-face {
-  font-family: "Telegraph-UltraLight";
-  src: url(fonts/PPTelegraf-UltraLight.otf);
-}
-
-@font-face {
-  font-family: "Telegraph-UltraBold";
-  src: url(fonts/PPTelegraf-UltraBold.otf);
-}
-
 .com_name,
 span,
 .links {
